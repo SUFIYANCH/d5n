@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38743626366",
+    "project_id": "d5n-interview-7ac5f",
+    "storage_bucket": "d5n-interview-7ac5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38743626366:android:4b6b1d59cf11624055be2f",
+        "android_client_info": {
+          "package_name": "com.exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfciZmpKGO5RWflhjjHWsgnHvo3ApVgNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38743626366:android:eeea6be7e0cbe42655be2f",
+        "android_client_info": {
+          "package_name": "com.example.d5n_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfciZmpKGO5RWflhjjHWsgnHvo3ApVgNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
